@@ -13,7 +13,7 @@ Try it out now:
 
 ## 🖼️ Screenshot
 
-![Simple Calculator Screenshot](./screenshot.png)
+![Simple Calculator Screenshot](./Screenshot.png)
 
 *If you do not see the screenshot above, ensure that `screenshots/calculator-demo.png` exists in the repository. You can update this path or add your own screenshot as needed.*
 
