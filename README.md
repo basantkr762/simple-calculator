@@ -13,7 +13,7 @@ Try it out now:
 
 ## 🖼️ Screenshot
 
-![Simple Calculator Screenshot](https://raw.githubusercontent.com/basantkr762/simple-calculator/main/screenshots/calculator-demo.png)
+![Simple Calculator Screenshot](./screenshot.png)
 
 *If you do not see the screenshot above, ensure that `screenshots/calculator-demo.png` exists in the repository. You can update this path or add your own screenshot as needed.*
 
